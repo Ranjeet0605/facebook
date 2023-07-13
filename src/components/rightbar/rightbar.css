@@ -1,0 +1,39 @@
+.rightbarcontainer{
+    flex:3;
+}
+.rightbarmaterial{
+    width: 100%;
+    margin-top:17px;
+}
+.birthdaygit{
+    display: flex;
+    align-items: center;
+}
+.birthdayimage{
+   width:80px;
+   height:80px;
+}
+.massagebyfriend{
+    /* font-size: 20px;
+    font-weight: 500; */
+    margin-left: 10px;
+}
+.imagewidthparty{
+  width:100%;
+}
+.frinedparty{
+    margin-top: 20px;
+    width:95%;
+    margin-right: 10px;
+   border-radius: 10px;
+}
+.onlinefr{
+    margin-top: 20px;
+}
+.onlinefrindcontainer{
+    width:100%;
+margin-top: 20px;
+}
+/* .byultagonline{
+
+} */

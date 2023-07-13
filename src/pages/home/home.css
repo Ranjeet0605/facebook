@@ -1,0 +1,11 @@
+
+.allNavbar{
+    display: flex;
+    
+}
+.profilepage{
+    flex:9;
+}
+.profilepageuser{
+    display: flex;
+}

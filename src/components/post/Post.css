@@ -1,0 +1,107 @@
+.posttt{
+    width:100%;
+}
+.postcontainer{
+    width:100%;
+    min-height:70vh;
+    margin-top:20px;
+    box-shadow: rgba(62, 60, 60, 0.2) 0px 2px 8px 0px;
+}
+.Toppost{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.leftpost{
+    display: flex;
+    align-items: center;
+}
+.imagecontain{
+    width:60px;
+     height: 60px;
+     border-radius: 50%;
+     object-fit: cover;
+     margin-left: 20px;
+     margin-top:10px;
+}
+.forname{
+    margin-left: 10px;
+font-size: 20px;
+font-weight: 500;
+
+}
+
+.fortime{
+   margin-left:10px;
+   margin-top: 3px;
+    font-size:16px;
+    font-weight: 500;
+}
+.rightpost{
+  margin-top:15px;
+  margin-right:5px ;
+}
+.centerposrt{
+    width:100%;
+}
+.sharefeelings{
+   margin: 10px;
+   margin-left: 30px;
+   font-size: 20px;
+   font-weight: 500;
+   
+}
+.sharepic{
+    margin:10px;
+    margin-left:30px;
+    width:90%;
+    height:auto;
+    object-fit: contain;
+}
+.leftbuttom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.leftside{
+    display: flex;
+    align-items: center;
+    margin-left:20px;
+}
+.likee{
+    background-color: blue;
+    border-radius: 50%;
+    width:30px;
+    height:30px;
+    margin-left: 5px;
+}
+.like{
+    align-items: center;
+    margin-left: 3px;
+    cursor: pointer;
+}
+.hearttt{
+    background-color: rgb(195, 10, 16);
+    border-radius: 50%;
+    width:30px;
+    height:30px;
+    align-items: center;
+    margin-left: 7px;
+}
+.heart{
+    margin: 3px;
+  align-items: center;
+   cursor: pointer;
+}
+.counting{
+    margin-left:8px;
+   font-size: 20px;
+   font-weight: 500;
+}
+.rightside{
+    margin-right: 20px;
+    font-size:16px;
+    cursor: pointer;
+    font-weight: 500;
+    border-bottom: 1px dashed grey;
+}

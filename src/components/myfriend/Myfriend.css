@@ -1,0 +1,56 @@
+.userinfo{
+  font-size: 25px;
+  font-weight: 600;
+}
+.cityname{
+    margin-top:8px;
+}
+.whatcity{
+ font-size: 22px;
+ font-weight: 600;
+ 
+}
+.what{
+    margin:20px;
+    font-size: 20px;
+    font-weight: 500;
+   }
+   .allimgecontainer{
+margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   }
+   .imagewithfrine{
+    display: flex;
+    flex-direction: column;
+    margin-bottom:2px;
+   }
+    
+.imgaewithf{
+    width:125px;
+    height: 125px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.feindname{
+ margin: 10px;
+ margin-left: 10px;
+ font-size: 22px;
+ font-weight: 500;
+}
+
+.followthis{
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding:5px 10px ;
+  font-size: 22px;
+  background-color: rgb(3, 3, 220);
+  border: none;
+  color:white;
+  border-radius: 5px;
+  width:100px;
+  cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.imagewithfrine{
+    display: flex;
+    flex-direction: column;
+    margin-bottom:2px;
+   }
+    
+.imgaewithf{
+    width:125px;
+    height: 125px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.feindname{
+ margin: 10px;
+ margin-left: 10px;
+ font-size: 22px;
+ font-weight: 500;
+}
+

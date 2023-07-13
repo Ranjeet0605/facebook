@@ -1,0 +1,33 @@
+.bytaglistonline{
+    display: flex;
+    list-style: none;
+    margin-bottom: 10px;
+    align-items: center;
+
+}
+.onlinefrried{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    object-fit: cover;
+    align-items: center;
+    
+
+}
+.fordot{
+    background-color: #1add1a;
+    width:15px;
+    height:15px;
+    border-radius: 50%;
+    margin-top: -35px;
+    position: absolute;
+   margin-left: 40px;
+}
+
+.onlinefint{
+    margin-left: 10px;
+   
+      align-items: center;
+      font-size: 21px;
+      font-weight: 500;
+}
